@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "hello",
+      "mainClass": "hello",
+      "buildTarget": "file:/home/anorm/scalalearn/myscala/.scala-build/?id=myscala_a62edf6c07",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}
