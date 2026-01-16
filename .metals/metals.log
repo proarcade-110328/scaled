@@ -965,3 +965,124 @@ java.lang.UnsupportedOperationException
 2026.01.16 12:19:27 INFO  time: compiled myscala_a62edf6c07 in 0.24s[0m
 2026.01.16 12:19:28 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
 2026.01.16 12:19:28 INFO  time: indexed workspace in 1.32s[0m
+2026.01.16 12:54:09 WARN  no build target for: /home/anorm/scalalearn/myscala/build.sbt[0m
+2026.01.16 12:54:10 INFO  no build target found for /home/anorm/scalalearn/myscala/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2026.01.16 13:01:01 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 52m 35.552s)[0m
+2026.01.16 13:01:01 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:01:01 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:01:01 INFO  time: compiled myscala_a62edf6c07 in 0.21s[0m
+2026.01.16 13:01:01 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:01:01 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 52m 35.989s)[0m
+2026.01.16 13:01:01 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:01:01 INFO  time: compiled myscala_a62edf6c07 in 35ms[0m
+2026.01.16 13:05:27 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:05:27 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 57m 1.7s)[0m
+2026.01.16 13:05:27 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:05:27 INFO  time: compiled myscala_a62edf6c07 in 0.44s[0m
+2026.01.16 13:05:27 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:05:27 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 57m 2.37s)[0m
+2026.01.16 13:05:27 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:05:27 INFO  time: compiled myscala_a62edf6c07 in 0.22s[0m
+2026.01.16 13:06:03 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:06:03 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 57m 37.641s)[0m
+2026.01.16 13:06:03 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:06:03 INFO  time: compiled myscala_a62edf6c07 in 0.34s[0m
+2026.01.16 13:06:03 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:06:03 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 57m 38.172s)[0m
+2026.01.16 13:06:03 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:06:03 INFO  time: compiled myscala_a62edf6c07 in 0.18s[0m
+2026.01.16 13:06:50 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:06:50 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 58m 25.144s)[0m
+2026.01.16 13:06:50 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:06:50 INFO  time: compiled myscala_a62edf6c07 in 0.44s[0m
+2026.01.16 13:06:50 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:06:50 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 58m 25.832s)[0m
+2026.01.16 13:06:50 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:06:51 INFO  time: compiled myscala_a62edf6c07 in 0.35s[0m
+2026.01.16 13:08:29 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:08:29 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 1h 3.384s)[0m
+2026.01.16 13:08:29 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:08:29 INFO  time: compiled myscala_a62edf6c07 in 0.38s[0m
+2026.01.16 13:08:29 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:08:29 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 1h 4.008s)[0m
+2026.01.16 13:08:29 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:08:29 INFO  time: compiled myscala_a62edf6c07 in 0.24s[0m
+2026.01.16 13:09:32 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:09:32 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 1h 1m 6.667s)[0m
+2026.01.16 13:09:32 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:09:32 INFO  time: compiled myscala_a62edf6c07 in 0.49s[0m
+Jan 16, 2026 1:12:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/anorm/scalalearn/myscala/.metals/.reports/metals-full/2026-01-16/r_compiler-error_(myscala_a62edf6c07)_13-12-36-864.md
+Jan 16, 2026 1:12:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/anorm/scalalearn/myscala/.metals/.reports/metals-full/2026-01-16/r_compiler-error_(myscala_a62edf6c07)_13-12-50-778.md
+Jan 16, 2026 1:12:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/anorm/scalalearn/myscala/.metals/.reports/metals-full/2026-01-16/r_compiler-error_(myscala_a62edf6c07)_13-12-51-063.md
+2026.01.16 13:13:20 INFO  Cancelling compilation on scala-cli server[0m
+2026.01.16 13:13:20 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:13:20 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 1h 4m 55.132s)[0m
+2026.01.16 13:13:20 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:13:20 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 1h 4m 55.353s)[0m
+2026.01.16 13:13:20 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:13:20 INFO  time: compiled myscala_a62edf6c07 in 25ms[0m
+2026.01.16 13:13:20 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:13:20 INFO  time: compiled myscala_a62edf6c07 in 0.14s[0m
+2026.01.16 13:13:22 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.16 13:13:22 INFO  time: indexed workspace in 1.24s[0m
+2026.01.16 13:13:22 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:13:22 INFO  time: compiled myscala_a62edf6c07 in 0.17s[0m
+2026.01.16 13:13:31 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:13:31 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 1h 5m 6.253s)[0m
+2026.01.16 13:13:31 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:13:31 INFO  time: compiled myscala_a62edf6c07 in 0.44s[0m
+2026.01.16 13:17:44 INFO  Cancelling compilation on scala-cli server[0m
+2026.01.16 13:17:44 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:17:44 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 1h 9m 18.668s)[0m
+2026.01.16 13:17:44 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:17:44 INFO  time: compiled myscala_a62edf6c07 in 0.32s[0m
+2026.01.16 13:17:45 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.16 13:17:45 INFO  time: indexed workspace in 0.94s[0m
+2026.01.16 13:17:46 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.16 13:17:46 INFO  time: indexed workspace in 0.99s[0m
+Jan 16, 2026 1:22:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/anorm/scalalearn/myscala/.metals/.reports/metals-full/2026-01-16/r_compiler-error_(myscala_a62edf6c07)_13-22-31-220.md
+Jan 16, 2026 1:22:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/anorm/scalalearn/myscala/.metals/.reports/metals-full/2026-01-16/r_compiler-error_(myscala_a62edf6c07)_13-22-31-481.md
+Jan 16, 2026 1:24:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/anorm/scalalearn/myscala/.metals/.reports/metals-full/2026-01-16/r_compiler-error_(myscala_a62edf6c07)_13-24-15-625.md
+Jan 16, 2026 1:24:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/anorm/scalalearn/myscala/.metals/.reports/metals-full/2026-01-16/r_compiler-error_(myscala_a62edf6c07)_13-24-15-917.md
+Jan 16, 2026 1:25:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/anorm/scalalearn/myscala/.metals/.reports/metals-full/2026-01-16/r_compiler-error_(myscala_a62edf6c07)_13-25-08-242.md
+Jan 16, 2026 1:25:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/anorm/scalalearn/myscala/.metals/.reports/metals-full/2026-01-16/r_compiler-error_(myscala_a62edf6c07)_13-25-10-348.md
+Jan 16, 2026 1:25:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/anorm/scalalearn/myscala/.metals/.reports/metals-full/2026-01-16/r_compiler-error_(myscala_a62edf6c07)_13-25-58-606.md
+2026.01.16 13:26:03 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:26:03 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 1h 17m 37.929s)[0m
+2026.01.16 13:26:03 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:26:03 INFO  time: compiled myscala_a62edf6c07 in 0.37s[0m
+2026.01.16 13:27:04 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:27:04 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 1h 18m 39.2s)[0m
+2026.01.16 13:27:04 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:27:04 INFO  time: compiled myscala_a62edf6c07 in 0.33s[0m
+2026.01.16 13:27:04 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:27:04 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 1h 18m 39.724s)[0m
+2026.01.16 13:27:04 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:27:04 INFO  time: compiled myscala_a62edf6c07 in 0.12s[0m
+2026.01.16 13:27:20 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:27:20 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 1h 18m 55.061s)[0m
+2026.01.16 13:27:20 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:27:20 INFO  time: compiled myscala_a62edf6c07 in 0.2s[0m
+2026.01.16 13:28:26 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:28:26 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 1h 20m 0.442s)[0m
+2026.01.16 13:28:26 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:28:26 INFO  time: compiled myscala_a62edf6c07 in 0.23s[0m
+2026.01.16 13:28:26 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:28:26 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 1h 20m 0.809s)[0m
+2026.01.16 13:28:26 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.16 13:28:26 INFO  time: compiled myscala_a62edf6c07 in 0.19s[0m
+2026.01.16 13:28:41 INFO  Cancelling compilation on scala-cli server[0m
+2026.01.16 13:28:42 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.16 13:28:42 INFO  time: indexed workspace in 0.92s[0m
+2026.01.16 13:28:42 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.16 13:28:42 INFO  time: indexed workspace in 0.89s[0m
