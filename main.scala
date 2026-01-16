@@ -11,7 +11,7 @@
   println(bigorsmall)
 
   def add(a: Int, b: Int) = a + b
-  val r = add(1,5)
+  val r = add(6,8)
   val x: Int = 8 
   println(r)
 
