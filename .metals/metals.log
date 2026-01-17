@@ -1163,3 +1163,177 @@ java.lang.UnsupportedOperationException
 2026.01.17 00:22:42 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 31.508s)[0m
 2026.01.17 00:22:42 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
 2026.01.17 00:22:42 INFO  time: compiled myscala_a62edf6c07 in 0.23s[0m
+2026.01.17 00:30:51 INFO  Shutting down server[0m
+2026.01.17 00:30:51 INFO  shutting down Metals[0m
+2026.01.17 00:30:51 INFO  Shut down connection with build server.[0m
+Jan 17, 2026 12:30:51 AM io.undertow.Undertow stop
+INFO: stopping server: Undertow - 2.3.12.Final
+2026.01.17 09:33:56 INFO  Started: Metals version 2.0.0-M6 in folders '/home/anorm/scalalearn/myscala' for client Neovim 0.11.5+v0.11.5.[0m
+2026.01.17 09:33:57 WARN  Schema "PUBLIC" has a version (7) that is newer than the latest available migration (6) ![0m
+2026.01.17 09:33:58 INFO  Running BSP server List(/usr/local/bin/scala-cli, bsp, --json-options, /home/anorm/scalalearn/myscala/.scala-build/ide-options-v2.json, --json-launcher-options, /home/anorm/scalalearn/myscala/.scala-build/ide-launcher-options.json, --envs-file, /home/anorm/scalalearn/myscala/.scala-build/ide-envs.json, /home/anorm/scalalearn/myscala)[0m
+2026.01.17 09:33:58 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/anorm/scalalearn/myscala/.metals/bsp.trace.json or /home/anorm/.cache/metals/bsp.trace.json[0m
+2026.01.17 09:33:58 INFO  mbt-v2: read index for 2 files in 0.23s[0m
+2026.01.17 09:33:59 INFO  mbt-v2: indexing 1 files[0m
+2026.01.17 09:33:59 WARN  [default] no logical packages found in source path (mode: MBT)[0m
+2026.01.17 09:33:59 INFO  time: mbt-v2 loaded index for 2 files in 1.64s[0m
+2026.01.17 09:33:59 INFO  BSP server: Starting compilation server[0m
+Starting up PC for Metals/default. Sourcepath: empty
+2026.01.17 09:34:03 INFO  Connected to Build server: scala-cli v1.11.0[0m
+2026.01.17 09:34:05 WARN  scala-library.jar not found on classpath for myscala_a62edf6c07, adding default library for 3.3.6[0m
+2026.01.17 09:34:06 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.17 09:34:06 INFO  time: indexed workspace in 2.49s[0m
+2026.01.17 09:40:56 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 6m 53.457s)[0m
+2026.01.17 09:40:56 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:40:56 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:41:03 INFO  time: compiled myscala_a62edf6c07 in 6.25s[0m
+2026.01.17 09:44:56 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 10m 52.856s)[0m
+2026.01.17 09:44:56 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:44:56 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:44:56 INFO  time: compiled myscala_a62edf6c07 in 0.6s[0m
+2026.01.17 09:44:56 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:44:57 INFO  time: compiled myscala_a62edf6c07 in 0.4s[0m
+2026.01.17 09:47:06 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:47:06 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 13m 2.928s)[0m
+2026.01.17 09:47:06 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:47:07 INFO  time: compiled myscala_a62edf6c07 in 1.56s[0m
+2026.01.17 09:47:07 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:47:08 INFO  time: compiled myscala_a62edf6c07 in 0.98s[0m
+Jan 17, 2026 9:48:13 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/anorm/scalalearn/myscala/.metals/.reports/metals-full/2026-01-17/r_compiler-error_(myscala_a62edf6c07)_09-48-13-849.md
+Jan 17, 2026 9:48:17 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/anorm/scalalearn/myscala/.metals/.reports/metals-full/2026-01-17/r_compiler-error_(myscala_a62edf6c07)_09-48-17-621.md
+Jan 17, 2026 9:48:19 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/anorm/scalalearn/myscala/.metals/.reports/metals-full/2026-01-17/r_compiler-error_(myscala_a62edf6c07)_09-48-19-221.md
+Jan 17, 2026 9:48:26 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/anorm/scalalearn/myscala/.metals/.reports/metals-full/2026-01-17/r_compiler-error_(myscala_a62edf6c07)_09-48-26-954.md
+2026.01.17 09:48:56 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:48:56 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 14m 52.995s)[0m
+2026.01.17 09:48:56 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:48:56 INFO  time: compiled myscala_a62edf6c07 in 0.3s[0m
+2026.01.17 09:48:56 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:48:56 INFO  time: compiled myscala_a62edf6c07 in 0.29s[0m
+2026.01.17 09:49:19 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:49:19 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 15m 15.843s)[0m
+2026.01.17 09:49:19 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:49:19 INFO  time: compiled myscala_a62edf6c07 in 0.21s[0m
+2026.01.17 09:49:19 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:49:19 INFO  time: compiled myscala_a62edf6c07 in 0.28s[0m
+2026.01.17 09:49:50 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:49:50 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 15m 47.357s)[0m
+2026.01.17 09:49:50 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:49:50 INFO  time: compiled myscala_a62edf6c07 in 0.26s[0m
+2026.01.17 09:49:50 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:49:50 INFO  time: compiled myscala_a62edf6c07 in 0.25s[0m
+2026.01.17 09:50:02 INFO  Shutting down server[0m
+2026.01.17 09:50:02 INFO  shutting down Metals[0m
+2026.01.17 09:50:02 INFO  Shut down connection with build server.[0m
+2026.01.17 09:50:02 INFO  Exiting server[0m
+2026.01.17 09:50:05 INFO  Started: Metals version 1.6.4 in folders '/home/anorm/scalalearn/myscala' for client Neovim 0.11.5+v0.11.5.[0m
+2026.01.17 09:50:05 INFO  Selected port 5031[0m
+Jan 17, 2026 9:50:05 AM io.undertow.Undertow start
+INFO: starting server: Undertow - 2.3.12.Final
+Jan 17, 2026 9:50:05 AM org.xnio.Xnio <clinit>
+INFO: XNIO version 3.8.17.Final
+Jan 17, 2026 9:50:05 AM org.xnio.nio.NioXnio <clinit>
+INFO: XNIO NIO Implementation Version 3.8.17.Final
+Jan 17, 2026 9:50:06 AM org.jboss.threads.Version <clinit>
+INFO: JBoss Threads version 3.5.0.Final
+2026.01.17 09:50:05 INFO  Started Metals http server at http://127.0.0.1:5031[0m
+2026.01.17 09:50:07 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.01.17 09:50:07 INFO  Attempting to connect to the build server...[0m
+2026.01.17 09:50:07 INFO  Running BSP server List(/usr/local/bin/scala-cli, bsp, --json-options, /home/anorm/scalalearn/myscala/.scala-build/ide-options-v2.json, --json-launcher-options, /home/anorm/scalalearn/myscala/.scala-build/ide-launcher-options.json, --envs-file, /home/anorm/scalalearn/myscala/.scala-build/ide-envs.json, /home/anorm/scalalearn/myscala)[0m
+2026.01.17 09:50:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/anorm/scalalearn/myscala/.metals/bsp.trace.json or /home/anorm/.cache/metals/bsp.trace.json[0m
+2026.01.17 09:50:07 INFO  time: Connected to build server in 0.94s[0m
+2026.01.17 09:50:08 INFO  Connected to Build server: scala-cli v1.11.0[0m
+2026.01.17 09:50:08 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:50:08 INFO  time: compiled myscala_a62edf6c07 in 0.38s[0m
+2026.01.17 09:50:08 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:50:08 INFO  time: compiled myscala_a62edf6c07 in 0.29s[0m
+2026.01.17 09:50:11 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.17 09:50:11 INFO  time: indexed workspace in 3.5s[0m
+2026.01.17 09:50:12 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:50:12 INFO  time: compiled myscala_a62edf6c07 in 0.24s[0m
+2026.01.17 09:50:12 ERROR Unexpected error initializing server: 
+java.lang.UnsupportedOperationException
+	at org.eclipse.lsp4j.services.LanguageClient.refreshSemanticTokens(LanguageClient.java:193)
+	at scala.meta.internal.metals.clients.language.ConfiguredLanguageClient.refreshSemanticTokens(ConfiguredLanguageClient.scala:206)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onWorksheetChanged$4(MetalsLspService.scala:1662)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:503)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+[0m
+2026.01.17 09:51:06 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:51:06 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 58.742s)[0m
+2026.01.17 09:51:06 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:51:06 INFO  time: compiled myscala_a62edf6c07 in 0.28s[0m
+2026.01.17 09:51:06 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:51:06 INFO  time: compiled myscala_a62edf6c07 in 0.23s[0m
+2026.01.17 09:51:25 INFO  Cancelling compilation on scala-cli server[0m
+2026.01.17 09:51:25 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:51:25 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 1m 17.728s)[0m
+2026.01.17 09:51:25 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:51:25 INFO  time: compiled myscala_a62edf6c07 in 0.8s[0m
+2026.01.17 09:51:27 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.17 09:51:27 INFO  time: indexed workspace in 1.7s[0m
+2026.01.17 09:51:28 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.17 09:51:28 INFO  time: indexed workspace in 1.2s[0m
+2026.01.17 09:54:47 INFO  Cancelling compilation on scala-cli server[0m
+2026.01.17 09:54:47 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:54:47 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 4m 39.563s)[0m
+2026.01.17 09:54:47 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:54:47 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 4m 39.797s)[0m
+2026.01.17 09:54:47 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:54:47 INFO  time: compiled myscala_a62edf6c07 in 0.65s[0m
+2026.01.17 09:54:49 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.17 09:54:49 INFO  time: indexed workspace in 1.46s[0m
+2026.01.17 09:55:00 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:55:00 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 4m 52.715s)[0m
+2026.01.17 09:55:00 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:55:00 INFO  time: compiled myscala_a62edf6c07 in 0.49s[0m
+2026.01.17 09:55:03 INFO  Cancelling compilation on scala-cli server[0m
+2026.01.17 09:55:04 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.17 09:55:04 INFO  time: indexed workspace in 1.04s[0m
+2026.01.17 09:55:05 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.17 09:55:05 INFO  time: indexed workspace in 1.07s[0m
+2026.01.17 09:55:09 INFO  Shutting down server[0m
+2026.01.17 09:55:09 INFO  shutting down Metals[0m
+2026.01.17 09:55:09 INFO  Shut down connection with build server.[0m
+Jan 17, 2026 9:55:09 AM io.undertow.Undertow stop
+INFO: stopping server: Undertow - 2.3.12.Final
+2026.01.17 09:56:25 INFO  Started: Metals version 1.6.4 in folders '/home/anorm/scalalearn/myscala' for client Visual Studio Code 1.108.1.[0m
+2026.01.17 09:56:27 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.01.17 09:56:27 INFO  no build target found for /home/anorm/scalalearn/myscala/main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2026.01.17 09:56:27 INFO  Attempting to connect to the build server...[0m
+2026.01.17 09:56:27 INFO  Running BSP server List(/usr/local/bin/scala-cli, bsp, --json-options, /home/anorm/scalalearn/myscala/.scala-build/ide-options-v2.json, --json-launcher-options, /home/anorm/scalalearn/myscala/.scala-build/ide-launcher-options.json, --envs-file, /home/anorm/scalalearn/myscala/.scala-build/ide-envs.json, /home/anorm/scalalearn/myscala)[0m
+2026.01.17 09:56:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/anorm/scalalearn/myscala/.metals/bsp.trace.json or /home/anorm/.cache/metals/bsp.trace.json[0m
+2026.01.17 09:56:29 INFO  BSP server: Starting compilation server[0m
+2026.01.17 09:56:32 INFO  time: Connected to build server in 5.12s[0m
+2026.01.17 09:56:32 INFO  Connected to Build server: scala-cli v1.11.0[0m
+2026.01.17 09:56:33 INFO  time: Imported build in 0.15s[0m
+2026.01.17 09:56:35 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.17 09:56:35 INFO  time: indexed workspace in 2.27s[0m
+2026.01.17 09:57:16 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:57:19 INFO  Shutting down server[0m
+2026.01.17 09:57:19 INFO  shutting down Metals[0m
+2026.01.17 09:57:19 INFO  Shut down connection with build server.[0m
+2026.01.17 09:57:19 INFO  Cancelling compilation on scala-cli server[0m
+2026.01.17 09:57:19 INFO  Exiting server[0m
+2026.01.17 09:57:40 INFO  Started: Metals version 2.0.0-M6 in folders '/home/anorm/scalalearn/myscala' for client Neovim 0.11.5+v0.11.5.[0m
+2026.01.17 09:57:43 WARN  Schema "PUBLIC" has a version (7) that is newer than the latest available migration (6) ![0m
+2026.01.17 09:57:44 INFO  Running BSP server List(/usr/local/bin/scala-cli, bsp, --json-options, /home/anorm/scalalearn/myscala/.scala-build/ide-options-v2.json, --json-launcher-options, /home/anorm/scalalearn/myscala/.scala-build/ide-launcher-options.json, --envs-file, /home/anorm/scalalearn/myscala/.scala-build/ide-envs.json, /home/anorm/scalalearn/myscala)[0m
+2026.01.17 09:57:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/anorm/scalalearn/myscala/.metals/bsp.trace.json or /home/anorm/.cache/metals/bsp.trace.json[0m
+2026.01.17 09:57:44 INFO  mbt-v2: read index for 2 files in 0.21s[0m
+2026.01.17 09:57:44 INFO  BSP server: Starting compilation server[0m
+2026.01.17 09:57:45 INFO  time: mbt-v2 loaded index for 2 files in 1.25s[0m
+2026.01.17 09:57:45 WARN  [default] no logical packages found in source path (mode: MBT)[0m
+Starting up PC for Metals/default. Sourcepath: empty
+2026.01.17 09:57:47 INFO  Connected to Build server: scala-cli v1.11.0[0m
+2026.01.17 09:57:48 INFO  compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.[0m
+2026.01.17 09:57:48 WARN  [default] no logical packages found in source path (mode: MBT)[0m
+Starting up PC for Metals/default. Sourcepath: empty
+2026.01.17 09:57:48 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.17 09:57:49 WARN  scala-library.jar not found on classpath for myscala_a62edf6c07, adding default library for 3.3.6[0m
+2026.01.17 09:57:51 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.17 09:57:51 INFO  time: indexed workspace in 3s[0m
+2026.01.17 09:57:55 INFO  time: compiled myscala_a62edf6c07 in 6.48s[0m

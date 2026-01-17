@@ -1,5 +1,5 @@
 @main def hello()=
-  println("Hello, Scala and NeoVim!") 
+  println("Hello, Scala!") 
 
   val square = (x:Int) => x * x
   val result = List(1, 2, 3).map(square)
@@ -58,3 +58,13 @@
     .filter(_.price >= 2000)
     .map(_.name.toUpperCase())
   println(cart)
+
+  val listinlist = List(List(1,2), List(3,4))
+  val flatlist = listinlist.flatMap(x => x)
+  println(listinlist)
+  println(flatlist)
+ 
+  case class User(name: String, email: Option[String])
+  val users = List(User("ProArcade", Some("anorm@gmail.com")), User("Steve", None))
+  val emailhead = users.map(user => user.email.flatMap(_.headOption))
+  println(emailhead)
