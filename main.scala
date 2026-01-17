@@ -68,3 +68,13 @@
   val users = List(User("ProArcade", Some("anorm@gmail.com")), User("Steve", None))
   val emailhead = users.map(user => user.email.flatMap(_.headOption))
   println(emailhead)
+
+  sealed trait result
+  case class Success(data: String) extends result
+  case class Failure(error: String) extends result
+
+  val myresult: result = Success("Data load completed")
+  myresult match {
+    case Success(data) => println(s"Data: $data")
+    case Failure(error) => println(s"Error: $error")
+  }
