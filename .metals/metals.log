@@ -1542,3 +1542,114 @@ java.lang.UnsupportedOperationException
 2026.01.18 08:47:51 INFO  time: compiled myscala_a62edf6c07 in 0.18s[0m
 2026.01.18 08:47:51 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
 2026.01.18 08:47:51 INFO  time: compiled myscala_a62edf6c07 in 0.18s[0m
+Jan 19, 2026 9:36:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 147
+Jan 19, 2026 9:37:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 172
+2026.01.19 09:45:24 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/[0m
+2026.01.19 09:45:24 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/[0m
+2026.01.19 09:45:24 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/[0m
+2026.01.19 09:45:24 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/[0m
+2026.01.19 09:45:24 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml[0m
+2026.01.19 09:45:24 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml[0m
+2026.01.19 09:45:24 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml[0m
+2026.01.19 09:45:24 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml[0m
+2026.01.19 09:45:24 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:45:24 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 24h 58m 39.485s)[0m
+2026.01.19 09:45:24 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:45:24 INFO  time: compiled myscala_a62edf6c07 in 0.43s[0m
+2026.01.19 09:45:24 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:45:24 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 24h 58m 40.168s)[0m
+2026.01.19 09:45:24 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:45:24 INFO  time: compiled myscala_a62edf6c07 in 49ms[0m
+2026.01.19 09:45:37 INFO  Cancelling compilation on scala-cli server[0m
+2026.01.19 09:45:37 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:45:37 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 24h 58m 51.837s)[0m
+2026.01.19 09:45:37 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:45:37 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:45:37 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 24h 58m 52.138s)[0m
+2026.01.19 09:45:37 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:45:37 INFO  time: compiled myscala_a62edf6c07 in 0.19s[0m
+2026.01.19 09:45:38 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.19 09:45:38 INFO  time: indexed workspace in 1.6s[0m
+2026.01.19 09:45:39 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:45:39 INFO  time: compiled myscala_a62edf6c07 in 0.24s[0m
+2026.01.19 09:46:09 INFO  Cancelling compilation on scala-cli server[0m
+2026.01.19 09:46:09 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:46:09 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 24h 59m 23.977s)[0m
+2026.01.19 09:46:09 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:46:09 INFO  time: compiled myscala_a62edf6c07 in 0.14s[0m
+2026.01.19 09:46:09 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 24h 59m 24.167s)[0m
+2026.01.19 09:46:09 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:46:09 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:46:09 INFO  time: compiled myscala_a62edf6c07 in 0.16s[0m
+2026.01.19 09:46:10 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.19 09:46:10 INFO  time: indexed workspace in 1.18s[0m
+2026.01.19 09:46:10 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:46:10 INFO  time: compiled myscala_a62edf6c07 in 0.13s[0m
+2026.01.19 09:46:21 INFO  Cancelling compilation on scala-cli server[0m
+2026.01.19 09:46:21 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:46:21 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 24h 59m 36.254s)[0m
+2026.01.19 09:46:21 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:46:21 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 24h 59m 36.465s)[0m
+2026.01.19 09:46:21 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:46:21 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:46:21 INFO  time: compiled myscala_a62edf6c07 in 0.16s[0m
+2026.01.19 09:46:22 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.19 09:46:22 INFO  time: indexed workspace in 1.21s[0m
+2026.01.19 09:46:23 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:46:23 INFO  time: compiled myscala_a62edf6c07 in 0.15s[0m
+2026.01.19 09:46:58 INFO  Cancelling compilation on scala-cli server[0m
+2026.01.19 09:46:58 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:46:58 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 25h 13.202s)[0m
+2026.01.19 09:46:58 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:46:58 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 25h 13.434s)[0m
+2026.01.19 09:46:58 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:46:58 INFO  time: compiled myscala_a62edf6c07 in 7ms[0m
+2026.01.19 09:46:58 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:46:58 INFO  time: compiled myscala_a62edf6c07 in 0.16s[0m
+2026.01.19 09:46:59 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.19 09:46:59 INFO  time: indexed workspace in 1.22s[0m
+2026.01.19 09:47:00 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:47:00 INFO  time: compiled myscala_a62edf6c07 in 0.14s[0m
+2026.01.19 09:47:20 INFO  Cancelling compilation on scala-cli server[0m
+2026.01.19 09:47:20 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:47:20 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 25h 34.746s)[0m
+2026.01.19 09:47:20 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:47:20 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 25h 34.932s)[0m
+2026.01.19 09:47:20 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:47:21 INFO  time: compiled myscala_a62edf6c07 in 0.82s[0m
+2026.01.19 09:47:21 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.19 09:47:21 INFO  time: indexed workspace in 1.5s[0m
+2026.01.19 09:50:30 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:50:30 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 25h 3m 45.28s)[0m
+2026.01.19 09:50:30 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:50:30 INFO  time: compiled myscala_a62edf6c07 in 0.2s[0m
+2026.01.19 09:50:30 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:50:30 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 25h 3m 45.759s)[0m
+2026.01.19 09:50:30 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:50:30 INFO  time: compiled myscala_a62edf6c07 in 43ms[0m
+2026.01.19 09:50:46 INFO  Cancelling compilation on scala-cli server[0m
+2026.01.19 09:50:46 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:50:46 INFO  Deduplicating compilation of myscala_a62edf6c07 from bsp client 'scala-cli 1.11.0' (since 25h 4m 0.855s)[0m
+2026.01.19 09:50:46 INFO  compiling myscala_a62edf6c07 (1 scala source)[0m
+2026.01.19 09:50:46 INFO  time: compiled myscala_a62edf6c07 in 0.73s[0m
+2026.01.19 09:50:47 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.19 09:50:47 INFO  time: indexed workspace in 1.44s[0m
+2026.01.19 09:50:48 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.19 09:50:48 INFO  time: indexed workspace in 1.16s[0m
+2026.01.19 09:58:18 INFO  Started: Metals version 1.6.4 in folders '/home/anorm/scalalearn/myscala' for client Visual Studio Code 1.108.1.[0m
+2026.01.19 09:58:18 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.01.19 09:58:19 INFO  no build target found for /home/anorm/scalalearn/myscala/main.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2026.01.19 09:58:20 INFO  Attempting to connect to the build server...[0m
+2026.01.19 09:58:20 INFO  Running BSP server List(/usr/local/bin/scala-cli, bsp, --json-options, /home/anorm/scalalearn/myscala/.scala-build/ide-options-v2.json, --json-launcher-options, /home/anorm/scalalearn/myscala/.scala-build/ide-launcher-options.json, --envs-file, /home/anorm/scalalearn/myscala/.scala-build/ide-envs.json, /home/anorm/scalalearn/myscala)[0m
+2026.01.19 09:58:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/anorm/scalalearn/myscala/.metals/bsp.trace.json or /home/anorm/.cache/metals/bsp.trace.json[0m
+2026.01.19 09:58:21 INFO  time: Connected to build server in 1.25s[0m
+2026.01.19 09:58:21 INFO  Connected to Build server: scala-cli v1.11.0[0m
+2026.01.19 09:58:21 INFO  time: Imported build in 0.11s[0m
+2026.01.19 09:58:24 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk/src.zip, /usr/lib/jvm/java-17-openjdk/lib/src.zip. Java symbols will not be available.[0m
+2026.01.19 09:58:24 INFO  time: indexed workspace in 2.96s[0m
+Jan 19, 2026 10:00:28 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jan 19, 2026 10:00:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

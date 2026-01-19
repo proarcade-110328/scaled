@@ -78,3 +78,9 @@
     case Success(data) => println(s"Data: $data")
     case Failure(error) => println(s"Error: $error")
   }
+
+  val optionresult: Option[String] = Some("Arcade")
+  optionresult match {
+    case Some(v) => println(s"값이 있네요, $v")
+    case None => println("값이 없네요.")
+  }
