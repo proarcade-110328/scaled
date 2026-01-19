@@ -1,4 +1,4 @@
-@main def mainlearn()=
+@main def hello()=
   println("Hello, Scala!") 
 
   val square = (x:Int) => x * x
@@ -32,6 +32,7 @@
   val arcadename = maybePro.map(_.name.toUpperCase())
   val finalname = arcadename.getOrElse("No Name")
   println(finalname)
+
   println(people)
   val names = people
     .map(_.name.toUpperCase())
@@ -77,18 +78,3 @@
     case Success(data) => println(s"Data: $data")
     case Failure(error) => println(s"Error: $error")
   }
-
-  val optionresult: Option[String] = Some("Arcade")
-  optionresult match {
-    case Some(v) => println(s"값이 있네요, $v")
-    case None => println("값이 없네요.")
-  }
- 
-  val nums: Option[Int] = Some(-8)
-  val checkFunc = (n: Int) => n > 0
-  val checkresult = nums.map(checkFunc)
-
-  checkresult match {
-    case Some(ispostive) => println(s"양수입니다! $ispostive")
-    case None => println("확인할 수 없습니다.")
-  } 
